@@ -8,7 +8,7 @@
 .vscode
 # for debug
 experiment
-test_datasets
+test_datasets/*
 # for models parameters
 pretrained_models/*
 models_pt
