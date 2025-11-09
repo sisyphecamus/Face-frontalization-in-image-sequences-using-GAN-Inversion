@@ -1,0 +1,14 @@
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+# for datasets and large files
+*/*.tar.gz
+*/*/*.mp4
+
+.vscode
+# for debug
+experiment
+test_datasets
+# for models parameters
+pretrained_models/*
+models_pt
